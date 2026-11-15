@@ -1,3 +1,3 @@
 ---
-Cody Snow: Welcome to my blog!
+title: Cody Snow's Blog
 ---
